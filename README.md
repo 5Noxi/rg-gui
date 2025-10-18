@@ -11,7 +11,7 @@ Download the latest release of rg-gui from the [Releases page](https://github.co
 
 The RipGrep executable `rg.exe` is included in the rg-gui release.  It needs to be in the same folder as `rg-gui.exe`.
 
-The **.NET Desktop Runtime 6** must also be installed.  You can download it from here: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+The **.NET Desktop Runtime 8** must also be installed.  You can download it from here: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
 
 ## Usage
 
